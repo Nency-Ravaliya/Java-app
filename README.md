@@ -1,4 +1,4 @@
-# Java Hello World Deployment with Jenkins
+# Java "Hello World" Deployment with Jenkins
 
 This repository contains a simple Java program that prints "Hello, World!" and instructions for deploying it using Jenkins.
 
@@ -37,6 +37,17 @@ Before you start, ensure you have the following installed:
 
 5. **Save the Configuration**:
    - Click `Save` to save the job configuration.
+  
+   - ![image](https://github.com/user-attachments/assets/7de35d74-f9b3-4dac-be30-200c73325795)
+   -![image](https://github.com/user-attachments/assets/fa3a686e-08ec-4e4c-9bbf-cac4c71fb6f2)
+   -![image](https://github.com/user-attachments/assets/7e1a8615-0575-40d9-96bd-62c92c313c3a)
+   -![image](https://github.com/user-attachments/assets/bdcdfbbd-03fa-49c3-99cf-f60ee1861a71)
+   -![image](https://github.com/user-attachments/assets/5978511f-9df7-45bd-9672-2f6ac21d62c6)
+
+
+
+
+
 
 ## Running the Job
 
